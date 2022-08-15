@@ -45,7 +45,7 @@ canonifyurls = true
 [author]
   name = "阿土(Mr.T)"
   bio = "目前正在後端、DevOps、System Design、遊戲設計等Domain中探索自我"
-  job = "Student"
+  job = "Master Student"
   location = "Taiwan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "wayne8692wayne8692@gmail.com"
@@ -347,15 +347,14 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
-      enable = false
-      # clientId =
-      # clientSecret =
-      # owner =
-      # repo =
-      # See all options: https://github.com/gitalk/gitalk#options
+      enable = true
+      clientId = "2520296f458c291379f3"
+      clientSecret = "4d2de46f6e529b19836c6fb2231bf75e8d570b9d"
+      owner = "wayne6172"
+      repo = "wayne6172.github.io"
       [params.comment.gitalk.options]
         language = "en"
         perPage = 10
