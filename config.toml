@@ -347,14 +347,14 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = false
-      shortname = "hugo-tranquilpeak-theme"
-    [params.comment.gitalk]
       enable = true
-      clientId = "2520296f458c291379f3"
-      clientSecret = "4d2de46f6e529b19836c6fb2231bf75e8d570b9d"
-      owner = "wayne6172"
-      repo = "wayne6172.github.io"
+      shortname = "https-wayne6172-github-io"
+    [params.comment.gitalk]
+      enable = false
+      # clientId =
+      # clientSecret =
+      # owner =
+      # repo =
       [params.comment.gitalk.options]
         language = "en"
         perPage = 10
