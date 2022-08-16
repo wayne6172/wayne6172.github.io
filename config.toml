@@ -346,7 +346,7 @@ canonifyurls = true
   # Comment system
   # --------------
   [params.comment]
-    shortname = "https-wayne6172-github-io"
+    disqusShortname = "https-wayne6172-github-io"
     [params.comment.disqus]
       enable = true
     [params.comment.gitalk]

@@ -5,7 +5,7 @@ categories:
 tags:
 - Kind
 date: 2022-08-16T13:00:41+08:00
-draft: true
+draft: false
 
 thumbnailImage: images/logo.png
 thumbnailImagePosition: right
