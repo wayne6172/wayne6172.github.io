@@ -346,9 +346,9 @@ canonifyurls = true
   # Comment system
   # --------------
   [params.comment]
+    shortname = "https-wayne6172-github-io"
     [params.comment.disqus]
       enable = true
-      shortname = "https-wayne6172-github-io"
     [params.comment.gitalk]
       enable = false
       # clientId =
