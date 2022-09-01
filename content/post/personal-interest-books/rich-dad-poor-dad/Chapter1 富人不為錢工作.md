@@ -16,4 +16,5 @@ thumbnailImagePosition: right
 
 {{< toc >}}
 
-{{< image classes="center" src="book.jpg" title="第一章心智圖" >}}
+{{< image classes="fancybox center" src="https://wayne6172.github.io/personal-interest-books/rich-dad-poor-dad/Ch1-富人不為錢工作.png" title="第一章-富人不為錢工作" >}}
+
