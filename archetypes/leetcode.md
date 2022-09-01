@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 categories:
-- 待分類
+- leetcode
 tags:
 - 無tags
 date: {{ .Date }}
 draft: true
+summary: 無
 ---
-
