@@ -1,0 +1,4 @@
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/wayne6172/hugo-tranquilpeak-theme.git
+	branch = develop
