@@ -10,8 +10,9 @@ tags:
 keywords:
 - tech
 
-draft: true
-# publishdate: 
+draft: false
+
+publishdate: {{ time.Format "2006-01-02T15:04-07:00" (time ((.Date | time.AsTime).AddDate 0 0 1 | time.Format "2006-01-02") "Asia/Taipei") }}
 # summary: 無
 # thumbnailImage: //example.com/image.jpg
 # thumbnailImagePosition: right
