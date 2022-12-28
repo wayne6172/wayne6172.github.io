@@ -2,7 +2,7 @@
 title: "2022-12-26 Record"
 date: 2022-12-26T21:17:32+08:00
 categories:
-- Blog
+- "Blog Update"
 tags:
 - Mermaid
 

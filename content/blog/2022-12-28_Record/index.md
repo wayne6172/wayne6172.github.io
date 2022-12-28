@@ -1,8 +1,8 @@
 ---
-title: "2022-12-28 Blog Update Record"
+title: "2022-12-28 Record"
 date: 2022-12-28T14:34:16+08:00
 categories:
-- Blog
+- "Blog Update"
 tags:
 - MathJax
 - Katex
@@ -19,7 +19,7 @@ summary: 將MathJax改成Katex，並修正反斜線的轉譯問題、將Markdown
 
 ## 前情提要
 
-在[昨日]({{<ref "2022-12-27 Record">}})增加了MathJax後發現了一些轉譯上的問題，今天來把它徹底解決掉
+在[昨日]({{<ref "2022-12-27_Record">}})增加了MathJax後發現了一些轉譯上的問題，今天來把它徹底解決掉
 
 ## 解決
 

@@ -4,7 +4,7 @@ date: 2022-12-27T12:19:28+08:00
 categories:
 - Blog
 tags:
-- MathJax
+- "Blog Update"
 
 math: true
 

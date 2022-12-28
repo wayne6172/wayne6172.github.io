@@ -1,5 +1,5 @@
 ---
-title: "429. N Ary Tree Level Order Traversal"
+title: "429. N-Ary Tree Level Order Traversal"
 date: 2022-09-05T20:12:27+08:00
 categories:
 - Leetcode
@@ -10,7 +10,7 @@ tags:
 
 draft: false
 summary: 2022/09/05 leetcode日常 (Mid難度)
-thumbnailImage: leetcode/leetcode_icon.png
+thumbnailImage: leetcode/avator/leetcode_icon.png
 thumbnailImagePosition: right
 
 ---

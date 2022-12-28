@@ -8,7 +8,7 @@ tags:
 date: 2022-09-03T19:10:20+08:00
 draft: false
 summary: 2022/09/03 leetcode日常 (Mid難度)
-thumbnailImage: leetcode/leetcode_icon.png
+thumbnailImage: leetcode/avator/leetcode_icon.png
 thumbnailImagePosition: right
 ---
 

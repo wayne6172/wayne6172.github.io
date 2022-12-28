@@ -12,7 +12,7 @@ math: true
 
 publishdate: 2022-12-29T00:00:00+08:00
 summary: 2022/12/28 leetcode日常 (Mid難度)
-thumbnailImage: leetcode/leetcode_icon.png
+thumbnailImage: leetcode/avator/leetcode_icon.png
 thumbnailImagePosition: right
 ---
 

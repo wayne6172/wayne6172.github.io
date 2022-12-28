@@ -12,7 +12,7 @@ tags:
 
 draft: false
 summary: 2022/09/02 leetcode日常 (Easy難度)
-thumbnailImage: leetcode/leetcode_icon.png
+thumbnailImage: leetcode/avator/leetcode_icon.png
 thumbnailImagePosition: right
 ---
 
