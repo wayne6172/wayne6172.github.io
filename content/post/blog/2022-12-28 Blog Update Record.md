@@ -11,7 +11,7 @@ draft: false
 
 math: true
 
-publishdate: 2022-12-29T00:00+08:00
+publishdate: 2022-12-29T00:00:00+08:00
 summary: 將MathJax改成Katex，並修正反斜線的轉譯問題、將Markdownlint的MD033關掉
 # thumbnailImage: //example.com/image.jpg
 # thumbnailImagePosition: right
