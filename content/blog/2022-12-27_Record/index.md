@@ -39,11 +39,11 @@ $$ \frac{n!}{k!(n-k)!} = \binom{n}{k} $$
 
 ## 目前有錯的 (已於12/28修正)
 
-{{<math>}}
+{{<rawHtml>}}
 $$
 \begin{pmatrix}
 1 & 2 & 3\\
 a & b & c
 \end{pmatrix}
 $$
-{{<\math>}}
+{{</rawHtml>}}

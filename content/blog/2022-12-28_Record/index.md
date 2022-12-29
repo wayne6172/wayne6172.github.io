@@ -43,14 +43,14 @@ $$
 ```
 
 Render結果：
-{{<math>}}
+{{<rawHtml>}}
 $$
 \begin{pmatrix}
 1 & 2 & 3\\
 a & b & c
 \end{pmatrix}
 $$
-{{</math>}}
+{{</rawHtml>}}
 
 因為這次加上了`math`標籤來避免掉 Markdown renderer吃掉反斜線
 

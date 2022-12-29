@@ -23,6 +23,10 @@ thumbnailImage: leetcode/avator/leetcode_icon.png
 
 >
 
+### Constraints
+
+>
+
 ### 解析
 
 ## Coding
@@ -40,4 +44,3 @@ thumbnailImage: leetcode/avator/leetcode_icon.png
 > Memory Usage: YYY MB, less than YYY% of Go online submissions.
 
 ### 討論
-

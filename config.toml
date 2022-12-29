@@ -128,7 +128,7 @@ canonifyurls = true
 # Customization
 # -------------
 [params]
-  mainSections = ['blog','leetcode']
+  mainSections = ['blog','leetcode','daily']
   # -----------
   # Description
   # -----------
