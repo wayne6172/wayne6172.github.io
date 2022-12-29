@@ -95,9 +95,9 @@ func minStoneSum(piles []int, k int) int {
 
 > **Success**
 >
-> Runtime: 370 ms, faster than 100% of Go online submissions for Count Good Nodes in Binary Tree.
+> Runtime: 370 ms, faster than 100% of Go online submissions for Remove Stones to Minimize the Total.
 >
-> Memory Usage: 8.7 MB, less than 100% of Go online submissions for Count Good Nodes in Binary Tree.
+> Memory Usage: 8.7 MB, less than 100% of Go online submissions for CRemove Stones to Minimize the Total.
 
 ### 討論
 
