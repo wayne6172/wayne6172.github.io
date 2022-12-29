@@ -11,5 +11,5 @@ draft: false
 publishdate: {{ time.Format "2006-01-02T15:04:00-07:00" (time ((.Date | time.AsTime).AddDate 0 0 1 | time.Format "2006-01-02") "Asia/Taipei") }}
 
 # summary: 部落格更新
-# thumbnailImage: {{ replace .File.Dir "\\" "/" }}
+# thumbnailImage: {{ replace (replace .File.Dir "\\" "/") " " "-" | lower }}
 ---

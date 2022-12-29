@@ -11,7 +11,7 @@ draft: false
 publishdate: 2022-12-30T00:00:00+08:00
 
 summary: "中規中矩，但因距離太遠不會特意前往拜訪。綜合評分： 4/5"
-thumbnailImage: daily/BONA 飽樂廚房/環境.JPG
+thumbnailImage: "daily/bona-飽樂廚房/環境.JPG"
 ---
 
 第一篇日常美食文就給我臨時起意想吃的餐廳 -- *BONA 樂飽廚房*

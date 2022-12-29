@@ -14,5 +14,5 @@ publishdate: {{ time.Format "2006-01-02T15:04:00-07:00" (time ((.Date | time.AsT
 #   - 
 
 # summary: 
-# thumbnailImage: {{ replace .File.Dir "\\" "/" }}
+# thumbnailImage: {{ replace (replace .File.Dir "\\" "/") " " "-" | lower }}
 ---
