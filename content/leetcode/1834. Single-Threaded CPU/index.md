@@ -131,4 +131,4 @@ func getOrder(tasks [][]int) []int {
 
 ### 討論
 
-這題除了要想何時該把行程丟入Heap的時間點，以及如果CPU遇到Idle時該如何處理比較麻煩外，這題的題目還算容易，也剛好把[昨天]({{<ref "1962. Remove Stones to Minimize the Total\index.md">}})的Heap再練習一次🤣🤣
+這題除了要想何時該把行程丟入Heap的時間點，以及如果CPU遇到Idle時該如何處理比較麻煩外，這題的題目還算容易，也剛好把[昨天]({{<ref "/leetcode/1962. Remove Stones to Minimize the Total/index.md">}})的Heap再練習一次🤣🤣
